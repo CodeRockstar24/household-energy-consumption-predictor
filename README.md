@@ -25,9 +25,6 @@ A **machine learning powered web application** that predicts household energy co
 2. The trained Random Forest model predicts `log_energy`.
 3. The prediction is converted back into **watt-hours (Wh)** with the formula:
 
-   $$
-   \text{Predicted Energy (Wh)} = 2^{\text{log\_energy}}
-   $$
 4. Results are displayed in:
 
    * A **Gauge Chart** showing consumption level.
