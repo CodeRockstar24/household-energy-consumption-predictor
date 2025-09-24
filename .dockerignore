@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+.env
+*.ipynb
+data/
+.vscode/
+.git
+.gitignore
+*.log
+*.sqlite3

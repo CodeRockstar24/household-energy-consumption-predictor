@@ -7,7 +7,7 @@ import plotly.express as px
 
 
 # Load trained Random Forest model
-model_path = r"C:\Users\elroy\OneDrive\Desktop\mlproject\rf_model.pkl"
+model_path = "rf_model.pkl"
 with open(model_path, "rb") as f:
     model = pickle.load(f)
 
