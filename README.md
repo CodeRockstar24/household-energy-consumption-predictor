@@ -109,15 +109,18 @@ scikit-learn
 
 ### 🔹 Input Sidebar & Prediction
 
-*(Example screenshot here – you can add later)*
+<img width="958" height="352" alt="image" src="https://github.com/user-attachments/assets/552ba93f-4d14-4620-abf9-cd12deafa8ad" />
+
 
 ### 🔹 Gauge Meter Visualization
 
-*(Example screenshot here)*
+<img width="718" height="364" alt="image" src="https://github.com/user-attachments/assets/ed8cffbb-ac40-4677-ba19-79c386057d06" />
+
 
 ### 🔹 24-Hour Predicted Trend
 
-*(Example screenshot here)*
+<img width="739" height="375" alt="image" src="https://github.com/user-attachments/assets/e41f052a-1d32-4f92-9bc5-23b9bc6b6a7d" />
+
 
 ---
 
